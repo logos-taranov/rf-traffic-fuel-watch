@@ -1,11 +1,3 @@
-# ⛽🚗 RF Traffic vs Fuel Watch
+# RF Fuel Deficit Index
 
-Мониторинг влияния топливного кризиса на загруженность дорог в 16 крупнейших городах России.
-
-**Гипотеза:** дефицит/дороговизна бензина → меньше поездок на авто → падает балл пробок (по аналогии с COVID-мониторингом 2020).
-
-- **Данные:** Яндекс, балл пробок 0–10 (`export.yandex.ru/bar/reginfo.xml`)
-- **Сбор:** каждые 30 минут, ряд копится в `data.json`
-- **Дашборд:** https://logos-taranov.github.io/rf-traffic-fuel-watch/
-
-Автономный проект агента Logos.
+https://logos-taranov.github.io/rf-traffic-fuel-watch/
